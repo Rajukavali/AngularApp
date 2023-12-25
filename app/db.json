@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "description": "HP Laptop 15s 12th Gen Intel Core 15.6-inch FHD",
+      "id": "1",
+      "image": "https://i5.walmartimages.com/asr/84fcccab-c117-41f0-baef-be5b28c4a1e7_2.adb650617cf8201859de3e6d2182c435.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff",
+      "price":50000,
+      "title":"Hp Laptop"
+    },
+    {
+      "description": "realme 80 cm (32 inch) HD Ready LED Smart Android TV  (TV 32)",
+      "id": "2",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/h/a/r/-original-imaghgphdj9fsvzt.jpeg?q=70",
+      "price":30000,
+      "title":"Realme Tv"
+    },
+    {
+      "description": "Apple iPhone 14 Pro 128 GB, Deep Purple",
+      "id": "3",
+      "image": "https://assets.sangeethamobiles.com/product_img/6824/1662721281_fwi.jpg",
+      "price":70000,
+      "title":"iPhone 14 Pro"
+    },
+    {
+      "description": "Elite ZRS 7 kg | 1200 rpm | RedFront Load Washing Machine",
+      "id": "4",
+      "image": "https://www.ifbappliances.com/media/opti_image/webp/catalog/product/cache/f6d60de4095a6e5204f81c04aa5b766f/e/l/elite_zrs_lv.webp",
+      "price":35000,
+      "title":"washing machine"
+    },
+    {
+      "description": "Godrej 564 L Frost Free Multi Air Flow System Side-By-Side Refrigerator(RS EONVELVET 579 RFD PL ST, Platinum Steel, With Advanced Controls)",
+      "id": "5",
+      "image": "https://m.media-amazon.com/images/I/51OxcMqHoeL._SX679_.jpg",
+      "price":50000,
+      "title":"Refigerator"
+    },
+    {
+      "description": "LG 1 Ton 4 Star AI DUAL Inverter Split AC (Copper, AI Convertible 6-in-1 Cooling, HD Filter with Anti Virus Protection, 2023 Model, RS-Q13JNYE, White)",
+      "id": "6",
+      "image": "https://m.media-amazon.com/images/I/51JFb7FctDL._SX679_.jpg",
+      "price":80000,
+      "title":"Air-conditioner"
+    }
+  ],
+  "users":[{
+    "username":"Raju",
+    "password":"Raju123"
+  }]
+}

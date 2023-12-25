@@ -1,0 +1,22 @@
+.card{
+    height: 60vh;
+    margin: 25px;
+    padding: 25px;
+   
+}
+.container{
+   
+    margin-top: 20px;
+ 
+   
+}
+.center{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+h4,h6{
+    font-weight: 400;
+}
